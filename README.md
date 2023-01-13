@@ -23,10 +23,7 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
-
-<!-- <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' /> -->
-![](https://github.com/trangttdang/web102_prework/assets/capture.gif)
-<!-- Replace this with whatever GIF tool you used! -->
+![](https://github.com/trangttdang/web102_prework/blob/main/assets/capture.gif)
 GIF created with Kap 
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
